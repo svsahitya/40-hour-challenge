@@ -1,0 +1,1 @@
+document.getElementById("mainbody").innerHTML = "<h1>40 Hours challenge</h1>";
